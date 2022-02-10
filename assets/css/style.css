@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.send-email-form .send-email-form-img-container {
+    max-width: 70%;
+    margin: auto;
+}
+
+.send-email-form .send-email-form-img-container .send-email-form-img {
+    width: 100%;
+}
